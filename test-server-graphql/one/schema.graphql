@@ -1,0 +1,6 @@
+type User {
+	uuid: ID!
+	username: String!
+	points: int
+	totalPoints: int
+}

@@ -1,0 +1,1 @@
+to install the library: `go get github.com/graphql-go/graphql`
